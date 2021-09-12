@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render when there are multiple items 1`] = `
+<ol>
+  <li>
+    Apple
+  </li>
+  <li>
+    Mango
+  </li>
+  <li>
+    Banana
+  </li>
+</ol>
+`;
+
+exports[`render when there is no item 1`] = `
+<div>
+  No item found!
+</div>
+`;
+
+exports[`render when there is one item 1`] = `
+<ol>
+  <li>
+    Apple
+  </li>
+</ol>
+`;
